@@ -33,6 +33,8 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
+.ipynb_checkpoints/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
